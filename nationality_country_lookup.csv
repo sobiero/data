@@ -1,134 +1,134 @@
-Nationality,countryName,ISO2,ISO3
-Afghan,Afghanistan,AF,AFG
-Albanian,Albania,AL,ALB
-Algerian,Algeria,DZ,DZA
-Angolan,Angola,AO,AGO
-Argentinian,Argentina,AR,ARG
-Armenian,Armenia,AM,ARM
-Australian,Australia,AU,AUS
-Austrian,Austria,AT,AUT
-Azerbaijani,Azerbaijan,AZ,AZE
-Bahamian,Bahamas,BS,BHS
-Bahraini,Bahrain,BH,BHR
-Bangladeshi,Bangladesh,BD,BGD
-Barbadian,Barbados,BB,BRB
-Belarusian,Belarus,BY,BLR
-Belgian,Belgium,BE,BEL
-Beninese,Benin,BJ,BEN
-Bhutanese,Bhutan,BT,BTN
-Bolivian,Bolivia,BO,BOL
-Brazilian,Brazil,BR,BRA
-Bulgarian,Bulgaria,BG,BGR
-of Burkina Faso,Burkina Faso,BF,BFA
-Cambodian,Cambodia,KH,KHM
-Cameroonian,Cameroon,CM,CMR
-Canadian,Canada,CA,CAN
-Chilean,Chile,CL,CHL
-Chinese,China,CN,CHN
-Colombian,Colombia,CO,COL
-Costa Rican,Costa Rica,CR,CRI
-Ivoirian,Cote dIvoire,CI,CIV
-Croatian,Croatia,HR,HRV
-Cuban,Cuba,CU,CUB
-Czech,Czech Republic,CZ,CZE
-D.R. Congolese,Democratic Republic of the Congo,CD,COD
-Danish,Denmark,DK,DNK
-of Djibouti,Djibouti,DJ,DJI
-Dominican,Dominican Republic,DO,DOM
-Ecuadorian,Ecuador,EC,ECU
-Egyptian,Egypt,EG,EGY
-Eritrean,Eritrea,ER,ERI
-Ethiopian,Ethiopia,ET,ETH
-Fijian,Fiji,FJ,FJI
-Finnish,Finland,FI,FIN
-French,France,FR,FRA
-Gambian,Gambia,GM,GMB
-Georgian,Georgia,GE,GEO
-German,Germany,DE,DEU
-Ghanaian,Ghana,GH,GHA
-Greek,Greece,GR,GRC
-Guatemalan,Guatemala,GT,GTM
-Guyanese,Guyana,GY,GUY
-Haitian,Haiti,HT,HTI
-Honduran,Honduras,HN,HND
-Indian,India,IN,IND
-Indonesian,Indonesia,ID,IDN
-Iranian,Iran,IN,IRN
-Iraqi,Iraq,IQ,IRQ
-Irish,Ireland,IE,IRL
-Mauritanian,Islamic Republic of Mauritania,MR,MRT
-Italian,Italy,IT,ITA
-Jamaican,Jamaica,JM,JAM
-Japanese,Japan,JP,JPN
-Jordanian,Jordan,JO,JOR
-Kazakh,Kazakhstan,KZ,KAZ
-Kenyan,Kenya,KE,KEN
-Eswatini,Kingdom of Eswatini,SZ,SWZ
-Kyrgyz,Kyrgyzstan,KG,KGZ
-Latvian,Latvia,LV,LVA
-Lebanese,Lebanon,LB,LBN
-Libyan,Libya,LY,LBY
-Lithuanian,Lithuania,LT,LTU
-Luxembourgian,Luxembourg,LU,LUX
-Malawian,Malawi,MW,MWI
-Malaysian,Malaysia,MY,MYS
-Mauritian,Mauritius,MU,MUS
-Mexican,Mexico,MX,MEX
-Moldovan,Moldova,MD,MDA
-Mongolian,Mongolia,MN,MNG
-Moroccan,Morocco,MA,MAR
-Namibian,Namibia,NA,NAM
-Nepalese,Nepal,NP,NPL
-Dutch,Netherlands,NL,NLD
-New Zealander,New Zealand,NZ,NZL
-of the Niger,Niger,NE,NER
-Nigerian,Nigeria,NG,NGA
-Norwegian,Norway,NO,NOR
-Pakistani,Pakistan,PK,PAK
-Panamanian,Panama,PA,PAN
-of P. N. Guinea,Papua New Guinea,PG,PNG
-Peruvian,Peru,PE,PER
-Filipino,Philippines,PH,PHL
-Polish,Poland,PL,POL
-Portuguese,Portugal,PT,PRT
-Cape Verdean,Republic of Cabo Verde,CV,CPV
-of Rep.of Korea,Republic of Korea,KR,KOR
-Montenegrin,Republic of Montenegro,ME,MNE
-Serbian,Republic of Serbia,RS,SRB
-Congolese,Republic of the Congo,CG,COG
-Romanian,Romania,RO,ROU
-Russian,Russian Federation,RU,RUS
-Rwandan,Rwanda,RW,RWA
-Saudi Arabian,Saudi Arabia,SA,SAU
-Senegalese,Senegal,SN,SEN
-of Seychelles,Seychelles,SC,SYC
-Singaporean,Singapore,SG,SGP
-Slovenian,Slovenia,SI,SVN
-South African,South Africa,ZA,ZAF
-Spanish,Spain,ES,ESP
-Sri Lankan,Sri Lanka,LK,LKA
-Saint Lucian,St. Lucia,LC,LCA
-Sudanese,Sudan,SD,SDN
-Swedish,Sweden,SE,SWE
-Swiss,Switzerland,CH,CHE
-Syrian,Syria,SY,SYR
-Tanzanian,Tanzania,TZ,TZA
-Thai,Thailand,TH,THA
-Togolese,Togo,TG,TGO
-"Geneva,of Trini&Tobago",Trinidad and Tobago,TT,TTO
-of Trini&Tobago,Trinidad and Tobago,TT,TTO
-Tunisian,Tunisia,TN,TUN
-Turkish,Turkey,TR,TUR
-Turkmenian,Turkmenistan,TM,TKM
-Ugandan,Uganda,UG,UGA
-Ukrainian,Ukraine,UA,UKR
-of Myanmar,Union of Myanmar,MM,MMR
-British,United Kingdom,GB,GBR
-Uruguayan,Uruguay,UY,URY
-of the USA,USA,US,USA
-Uzbek,Uzbekistan,UZ,UZB
-Venezuelan,Venezuela,VE,VEN
-Vietnamese,Vietnam,VN,VNM
-Yemeni,Yemen,YE,YEM
-Zambian,Zambia,ZM,ZMB
-Zimbabwean,Zimbabwe,ZW,ZWE
+﻿Nationality,countryName,ISO2,ISO3,LAT,LON
+Afghan,Afghanistan,AF,AFG,33.93911,67.709953
+Albanian,Albania,AL,ALB,41.153332,20.168331
+Algerian,Algeria,DZ,DZA,28.033886,1.659626
+Angolan,Angola,AO,AGO,-11.202692,17.873887
+Argentinian,Argentina,AR,ARG,-38.416097,-63.616672
+Armenian,Armenia,AM,ARM,40.069099,45.038189
+Australian,Australia,AU,AUS,-25.274398,133.775136
+Austrian,Austria,AT,AUT,47.516231,14.550072
+Azerbaijani,Azerbaijan,AZ,AZE,40.143105,47.576927
+Bahamian,Bahamas,BS,BHS,25.03428,-77.39628
+Bahraini,Bahrain,BH,BHR,25.930414,50.637772
+Bangladeshi,Bangladesh,BD,BGD,23.684994,90.356331
+Barbadian,Barbados,BB,BRB,13.193887,-59.543198
+Belarusian,Belarus,BY,BLR,53.709807,27.953389
+Belgian,Belgium,BE,BEL,50.503887,4.469936
+Beninese,Benin,BJ,BEN,9.30769,2.315834
+Bhutanese,Bhutan,BT,BTN,27.514162,90.433601
+Bolivian,Bolivia,BO,BOL,-16.290154,-63.588653
+Brazilian,Brazil,BR,BRA,-14.235004,-51.92528
+Bulgarian,Bulgaria,BG,BGR,42.733883,25.48583
+of Burkina Faso,Burkina Faso,BF,BFA,12.238333,-1.561593
+Cambodian,Cambodia,KH,KHM,12.565679,104.990963
+Cameroonian,Cameroon,CM,CMR,7.369722,12.354722
+Canadian,Canada,CA,CAN,56.130366,-106.346771
+Chilean,Chile,CL,CHL,-35.675147,-71.542969
+Chinese,China,CN,CHN,35.86166,104.195397
+Colombian,Colombia,CO,COL,4.570868,-74.297333
+Costa Rican,Costa Rica,CR,CRI,9.748917,-83.753428
+Ivoirian,Cote dIvoire,CI,CIV,7.539989,-5.54708
+Croatian,Croatia,HR,HRV,45.1,15.2
+Cuban,Cuba,CU,CUB,21.521757,-77.781167
+Czech,Czech Republic,CZ,CZE,49.817492,15.472962
+D.R. Congolese,Democratic Republic of the Congo,CD,COD,-4.038333,21.758664
+Danish,Denmark,DK,DNK,56.26392,9.501785
+of Djibouti,Djibouti,DJ,DJI,11.825138,42.590275
+Dominican,Dominican Republic,DO,DOM,18.735693,-70.162651
+Ecuadorian,Ecuador,EC,ECU,-1.831239,-78.183406
+Egyptian,Egypt,EG,EGY,26.820553,30.802498
+Eritrean,Eritrea,ER,ERI,15.179384,39.782334
+Ethiopian,Ethiopia,ET,ETH,9.145,40.489673
+Fijian,Fiji,FJ,FJI,-16.578193,179.414413
+Finnish,Finland,FI,FIN,61.92411,25.748151
+French,France,FR,FRA,46.227638,2.213749
+Gambian,Gambia,GM,GMB,13.443182,-15.310139
+Georgian,Georgia,GE,GEO,42.315407,43.356892
+German,Germany,DE,DEU,51.165691,10.451526
+Ghanaian,Ghana,GH,GHA,7.946527,-1.023194
+Greek,Greece,GR,GRC,39.074208,21.824312
+Guatemalan,Guatemala,GT,GTM,15.783471,-90.230759
+Guyanese,Guyana,GY,GUY,4.860416,-58.93018
+Haitian,Haiti,HT,HTI,18.971187,-72.285215
+Honduran,Honduras,HN,HND,15.199999,-86.241905
+Indian,India,IN,IND,20.593684,78.96288
+Indonesian,Indonesia,ID,IDN,-0.789275,113.921327
+Iranian,Iran,IN,IRN,20.593684,78.96288
+Iraqi,Iraq,IQ,IRQ,33.223191,43.679291
+Irish,Ireland,IE,IRL,53.41291,-8.24389
+Mauritanian,Islamic Republic of Mauritania,MR,MRT,21.00789,-10.940835
+Italian,Italy,IT,ITA,41.87194,12.56738
+Jamaican,Jamaica,JM,JAM,18.109581,-77.297508
+Japanese,Japan,JP,JPN,36.204824,138.252924
+Jordanian,Jordan,JO,JOR,30.585164,36.238414
+Kazakh,Kazakhstan,KZ,KAZ,48.019573,66.923684
+Kenyan,Kenya,KE,KEN,-0.023559,37.906193
+Eswatini,Kingdom of Eswatini,SZ,SWZ,-26.522503,31.465866
+Kyrgyz,Kyrgyzstan,KG,KGZ,41.20438,74.766098
+Latvian,Latvia,LV,LVA,56.879635,24.603189
+Lebanese,Lebanon,LB,LBN,33.854721,35.862285
+Libyan,Libya,LY,LBY,26.3351,17.228331
+Lithuanian,Lithuania,LT,LTU,55.169438,23.881275
+Luxembourgian,Luxembourg,LU,LUX,49.815273,6.129583
+Malawian,Malawi,MW,MWI,-13.254308,34.301525
+Malaysian,Malaysia,MY,MYS,4.210484,101.975766
+Mauritian,Mauritius,MU,MUS,-20.348404,57.552152
+Mexican,Mexico,MX,MEX,23.634501,-102.552784
+Moldovan,Moldova,MD,MDA,47.411631,28.369885
+Mongolian,Mongolia,MN,MNG,46.862496,103.846656
+Moroccan,Morocco,MA,MAR,31.791702,-7.09262
+Namibian,Namibia,NA,NAM,-22.95764,18.49041
+Nepalese,Nepal,NP,NPL,28.394857,84.124008
+Dutch,Netherlands,NL,NLD,52.132633,5.291266
+New Zealander,New Zealand,NZ,NZL,-40.900557,174.885971
+of the Niger,Niger,NE,NER,17.607789,8.081666
+Nigerian,Nigeria,NG,NGA,9.081999,8.675277
+Norwegian,Norway,NO,NOR,60.472024,8.468946
+Pakistani,Pakistan,PK,PAK,30.375321,69.345116
+Panamanian,Panama,PA,PAN,8.537981,-80.782127
+of P. N. Guinea,Papua New Guinea,PG,PNG,-6.314993,143.95555
+Peruvian,Peru,PE,PER,-9.189967,-75.015152
+Filipino,Philippines,PH,PHL,12.879721,121.774017
+Polish,Poland,PL,POL,51.919438,19.145136
+Portuguese,Portugal,PT,PRT,39.399872,-8.224454
+Cape Verdean,Republic of Cabo Verde,CV,CPV,16.002082,-24.013197
+of Rep.of Korea,Republic of Korea,KR,KOR,35.907757,127.766922
+Montenegrin,Republic of Montenegro,ME,MNE,42.708678,19.37439
+Serbian,Republic of Serbia,RS,SRB,44.016521,21.005859
+Congolese,Republic of the Congo,CG,COG,-0.228021,15.827659
+Romanian,Romania,RO,ROU,45.943161,24.96676
+Russian,Russian Federation,RU,RUS,61.52401,105.318756
+Rwandan,Rwanda,RW,RWA,-1.940278,29.873888
+Saudi Arabian,Saudi Arabia,SA,SAU,23.885942,45.079162
+Senegalese,Senegal,SN,SEN,14.497401,-14.452362
+of Seychelles,Seychelles,SC,SYC,-4.679574,55.491977
+Singaporean,Singapore,SG,SGP,1.352083,103.819836
+Slovenian,Slovenia,SI,SVN,46.151241,14.995463
+South African,South Africa,ZA,ZAF,-30.559482,22.937506
+Spanish,Spain,ES,ESP,40.463667,-3.74922
+Sri Lankan,Sri Lanka,LK,LKA,7.873054,80.771797
+Saint Lucian,St. Lucia,LC,LCA,13.909444,-60.978893
+Sudanese,Sudan,SD,SDN,12.862807,30.217636
+Swedish,Sweden,SE,SWE,60.128161,18.643501
+Swiss,Switzerland,CH,CHE,46.818188,8.227512
+Syrian,Syria,SY,SYR,34.802075,38.996815
+Tanzanian,Tanzania,TZ,TZA,-6.369028,34.888822
+Thai,Thailand,TH,THA,15.870032,100.992541
+Togolese,Togo,TG,TGO,8.619543,0.824782
+"Geneva,of Trini&Tobago",Trinidad and Tobago,TT,TTO,10.691803,-61.222503
+of Trini&Tobago,Trinidad and Tobago,TT,TTO,10.691803,-61.222503
+Tunisian,Tunisia,TN,TUN,33.886917,9.537499
+Turkish,Turkey,TR,TUR,38.963745,35.243322
+Turkmenian,Turkmenistan,TM,TKM,38.969719,59.556278
+Ugandan,Uganda,UG,UGA,1.373333,32.290275
+Ukrainian,Ukraine,UA,UKR,48.379433,31.16558
+of Myanmar,Union of Myanmar,MM,MMR,21.913965,95.956223
+British,United Kingdom,GB,GBR,55.378051,-3.435973
+Uruguayan,Uruguay,UY,URY,-32.522779,-55.765835
+of the USA,USA,US,USA,37.09024,-95.712891
+Uzbek,Uzbekistan,UZ,UZB,41.377491,64.585262
+Venezuelan,Venezuela,VE,VEN,6.42375,-66.58973
+Vietnamese,Vietnam,VN,VNM,14.058324,108.277199
+Yemeni,Yemen,YE,YEM,15.552727,48.516388
+Zambian,Zambia,ZM,ZMB,-13.133897,27.849332
+Zimbabwean,Zimbabwe,ZW,ZWE,-19.015438,29.154857
