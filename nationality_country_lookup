@@ -1,0 +1,134 @@
+Nationality,countryName,ISO2,ISO3
+Afghan,Afghanistan,AF,AFG
+Albanian,Albania,AL,ALB
+Algerian,Algeria,DZ,DZA
+Angolan,Angola,AO,AGO
+Argentinian,Argentina,AR,ARG
+Armenian,Armenia,AM,ARM
+Australian,Australia,AU,AUS
+Austrian,Austria,AT,AUT
+Azerbaijani,Azerbaijan,AZ,AZE
+Bahamian,Bahamas,BS,BHS
+Bahraini,Bahrain,BH,BHR
+Bangladeshi,Bangladesh,BD,BGD
+Barbadian,Barbados,BB,BRB
+Belarusian,Belarus,BY,BLR
+Belgian,Belgium,BE,BEL
+Beninese,Benin,BJ,BEN
+Bhutanese,Bhutan,BT,BTN
+Bolivian,Bolivia,BO,BOL
+Brazilian,Brazil,BR,BRA
+Bulgarian,Bulgaria,BG,BGR
+of Burkina Faso,Burkina Faso,BF,BFA
+Cambodian,Cambodia,KH,KHM
+Cameroonian,Cameroon,CM,CMR
+Canadian,Canada,CA,CAN
+Chilean,Chile,CL,CHL
+Chinese,China,CN,CHN
+Colombian,Colombia,CO,COL
+Costa Rican,Costa Rica,CR,CRI
+Ivoirian,Cote dIvoire,CI,CIV
+Croatian,Croatia,HR,HRV
+Cuban,Cuba,CU,CUB
+Czech,Czech Republic,CZ,CZE
+D.R. Congolese,Democratic Republic of the Congo,CD,COD
+Danish,Denmark,DK,DNK
+of Djibouti,Djibouti,DJ,DJI
+Dominican,Dominican Republic,DO,DOM
+Ecuadorian,Ecuador,EC,ECU
+Egyptian,Egypt,EG,EGY
+Eritrean,Eritrea,ER,ERI
+Ethiopian,Ethiopia,ET,ETH
+Fijian,Fiji,FJ,FJI
+Finnish,Finland,FI,FIN
+French,France,FR,FRA
+Gambian,Gambia,GM,GMB
+Georgian,Georgia,GE,GEO
+German,Germany,DE,DEU
+Ghanaian,Ghana,GH,GHA
+Greek,Greece,GR,GRC
+Guatemalan,Guatemala,GT,GTM
+Guyanese,Guyana,GY,GUY
+Haitian,Haiti,HT,HTI
+Honduran,Honduras,HN,HND
+Indian,India,IN,IND
+Indonesian,Indonesia,ID,IDN
+Iranian,Iran,IN,IRN
+Iraqi,Iraq,IQ,IRQ
+Irish,Ireland,IE,IRL
+Mauritanian,Islamic Republic of Mauritania,MR,MRT
+Italian,Italy,IT,ITA
+Jamaican,Jamaica,JM,JAM
+Japanese,Japan,JP,JPN
+Jordanian,Jordan,JO,JOR
+Kazakh,Kazakhstan,KZ,KAZ
+Kenyan,Kenya,KE,KEN
+Eswatini,Kingdom of Eswatini,SZ,SWZ
+Kyrgyz,Kyrgyzstan,KG,KGZ
+Latvian,Latvia,LV,LVA
+Lebanese,Lebanon,LB,LBN
+Libyan,Libya,LY,LBY
+Lithuanian,Lithuania,LT,LTU
+Luxembourgian,Luxembourg,LU,LUX
+Malawian,Malawi,MW,MWI
+Malaysian,Malaysia,MY,MYS
+Mauritian,Mauritius,MU,MUS
+Mexican,Mexico,MX,MEX
+Moldovan,Moldova,MD,MDA
+Mongolian,Mongolia,MN,MNG
+Moroccan,Morocco,MA,MAR
+Namibian,Namibia,NA,NAM
+Nepalese,Nepal,NP,NPL
+Dutch,Netherlands,NL,NLD
+New Zealander,New Zealand,NZ,NZL
+of the Niger,Niger,NE,NER
+Nigerian,Nigeria,NG,NGA
+Norwegian,Norway,NO,NOR
+Pakistani,Pakistan,PK,PAK
+Panamanian,Panama,PA,PAN
+of P. N. Guinea,Papua New Guinea,PG,PNG
+Peruvian,Peru,PE,PER
+Filipino,Philippines,PH,PHL
+Polish,Poland,PL,POL
+Portuguese,Portugal,PT,PRT
+Cape Verdean,Republic of Cabo Verde,CV,CPV
+of Rep.of Korea,Republic of Korea,KR,KOR
+Montenegrin,Republic of Montenegro,ME,MNE
+Serbian,Republic of Serbia,RS,SRB
+Congolese,Republic of the Congo,CG,COG
+Romanian,Romania,RO,ROU
+Russian,Russian Federation,RU,RUS
+Rwandan,Rwanda,RW,RWA
+Saudi Arabian,Saudi Arabia,SA,SAU
+Senegalese,Senegal,SN,SEN
+of Seychelles,Seychelles,SC,SYC
+Singaporean,Singapore,SG,SGP
+Slovenian,Slovenia,SI,SVN
+South African,South Africa,ZA,ZAF
+Spanish,Spain,ES,ESP
+Sri Lankan,Sri Lanka,LK,LKA
+Saint Lucian,St. Lucia,LC,LCA
+Sudanese,Sudan,SD,SDN
+Swedish,Sweden,SE,SWE
+Swiss,Switzerland,CH,CHE
+Syrian,Syria,SY,SYR
+Tanzanian,Tanzania,TZ,TZA
+Thai,Thailand,TH,THA
+Togolese,Togo,TG,TGO
+"Geneva,of Trini&Tobago",Trinidad and Tobago,TT,TTO
+of Trini&Tobago,Trinidad and Tobago,TT,TTO
+Tunisian,Tunisia,TN,TUN
+Turkish,Turkey,TR,TUR
+Turkmenian,Turkmenistan,TM,TKM
+Ugandan,Uganda,UG,UGA
+Ukrainian,Ukraine,UA,UKR
+of Myanmar,Union of Myanmar,MM,MMR
+British,United Kingdom,GB,GBR
+Uruguayan,Uruguay,UY,URY
+of the USA,USA,US,USA
+Uzbek,Uzbekistan,UZ,UZB
+Venezuelan,Venezuela,VE,VEN
+Vietnamese,Vietnam,VN,VNM
+Yemeni,Yemen,YE,YEM
+Zambian,Zambia,ZM,ZMB
+Zimbabwean,Zimbabwe,ZW,ZWE
