@@ -1,0 +1,312 @@
+Employee_Name	EmpID	PositionLevel	DeptID	Position	Nationality	Region	DOB	Sex	MaritalDesc	DateofHire	DateofTermination	EmploymentStatus	Department	ManagerName	ManagerID	PerformanceScore	EmpSatisfaction	SpecialProjectsCount	LastPerformanceReview_Date	DaysLateLast30	Absences
+Szabo, Andrew	10024	1	4	Software Engineer	French	WEOG	05/06/1983	M 	Single	07/07/2014		Active	Software Engineering	Alex Sweetwater	10	Exceeds	5	5	2/18/2019	0	1
+Monterro, Luisa	10025	1	5	Production Technician II	Dutch	WEOG	04/24/70	F	Single	5/13/2013		Active	Production       	Kissy Sullivan	20	Exceeds	3	0	1/14/2019	0	1
+Adinolfi, Wilson  K	10026	1	5	Production Technician I	Colombian	GRULAC	07/10/1983	M 	Single	07/05/2011		Active	Production       	Michael Albert	22	Exceeds	5	0	1/17/2019	0	1
+Gonzalez, Cayo	10031	1	5	Production Technician I	Malaysian	Asia Pacific Group	09/29/69	M 	Divorced	07/11/2011		Active	Production       	Brannon Miller	12	Exceeds	4	0	2/18/2019	0	1
+Johnston, Yen	10036	1	5	Production Technician II	French	WEOG	09/08/1969	F	Single	07/07/2014		Active	Production       	Brannon Miller	12	Exceeds	3	00/01/1900	01/11/2019	0	1
+Darson, Jene'ya 	10056	1	5	Production Technician I	Chadian	African Group	11/05/1978	F	Married	07/02/2012		Active	Production       	Elijiah Gray	16	Fully Meets	3	0	2/25/2019	0	1
+Barton, Nader	10066	5	5	Production Technician I	Malawian	African Group	07/15/77	M 	Divorced	9/24/2012	04/06/2017	Voluntarily Terminated	Production       	Michael Albert	22	Fully Meets	5	00/01/1900	03/02/2017	0	1
+Demita, Carla	10100	5	5	Production Technician II	Mexican	GRULAC	02/25/51	F	Separated	04/04/2011	11/04/2015	Voluntarily Terminated	Production       	Kelley Spirea	18	Fully Meets	5	00/01/1900	05/06/2015	0	1
+Onque, Jasmine	10121	1	6	Area Sales Manager	Cuban	GRULAC	05/11/1990	F	Single	9/30/2013		Active	Sales	Lynn Daneault	21	Fully Meets	3	0	1/25/2019	0	1
+Heitzman, Anthony	10129	1	5	Production Technician I	of the USA	WEOG	01/04/1984	M 	Single	8/13/2012		Active	Production       	Ketsia Liebig	19	Fully Meets	4	00/01/1900	02/11/2019	0	1
+Theamstern, Sophia	10141	5	5	Production Technician I	Bahraini	Asia Pacific Group	05/09/1965	F	Single	07/05/2011	09/05/2016	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	4	00/01/1900	03/02/2016	0	1
+Gosciminski, Phylicia  	10218	3	5	Production Technician II	Tunisian	African Group	12/08/1983	F	Separated	9/30/2013		Active	Production       	Kissy Sullivan	20	Fully Meets	5	0	2/21/2019	0	1
+Galia, Lisa	10273	1	3	IT Support	Chinese	Asia Pacific Group	07/06/1968	F	Single	05/01/2010		Active	IT/IS	Eric Dougall	6	Fully Meets	4	05/01/1900	02/01/2019	0	1
+Dickinson, Geoff 	10276	1	5	Production Technician I	Ghanian	African Group	11/15/82	M 	Single	05/12/2014		Active	Production       	Ketsia Liebig	19	Fully Meets	4	0	2/19/2019	0	1
+Singh, Nan 	10039	1	1	Administrative Assistant	Kenyan	African Group	05/19/88	F	Single	05/01/2015		Active	Admin Offices	Brandon R. LeBlanc	1	Fully Meets	3	5	1/15/2019	0	2
+Nguyen, Dheepa	10042	1	6	Area Sales Manager	German	WEOG	03/31/89	F	Single	07/08/2013		Active	Sales	Lynn Daneault	21	Fully Meets	5	0	1/25/2019	0	2
+Gordon, David	10051	1	5	Production Technician I	Nepalese	Asia Pacific Group	05/21/79	M 	Married	07/02/2012		Active	Production       	David Stanley	14	Fully Meets	3	0	1/14/2019	0	2
+Anderson, Carol 	10069	5	5	Production Technician I	Brazilian	GRULAC	09/08/1989	F	Divorced	07/11/2011	09/06/2016	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	4	00/01/1900	02/01/2016	0	2
+Gray, Elijiah  	10098	1	5	Production Manager	Thai	Asia Pacific Group	07/11/1981	M 	Divorced	06/02/2015		Active	Production       	Janet King	2	Fully Meets	3	00/01/1900	01/04/2019	0	2
+Miller, Brannon	10116	1	5	Production Manager	of the USA	WEOG	08/10/1981	M 	Single	8/16/2012		Active	Production       	Janet King	2	Fully Meets	3	0	1/14/2019	0	2
+Gerke, Melisa	10122	5	5	Production Technician I	French	WEOG	05/15/70	F	Divorced	11/07/2011	11/15/2016	Voluntarily Terminated	Production       	Elijiah Gray	16	Fully Meets	4	0	4/29/2016	0	2
+Saada, Adell	10126	1	4	Software Engineer	Lebanese	Asia Pacific Group	07/24/86	F	Married	11/05/2012		Active	Software Engineering	Alex Sweetwater	10	Fully Meets	3	6	2/13/2019	0	2
+Johnson, Noelle 	10156	3	3	Database Administrator	British	WEOG	11/07/1986	F	Married	01/05/2015		Active	IT/IS	Simon Roup	4	Fully Meets	3	05/01/1900	02/11/2019	0	2
+Sander, Kamrin	10169	1	5	Production Technician I	Namibian	African Group	07/10/1988	F	Married	9/29/2014		Active	Production       	Elijiah Gray	16	Fully Meets	3	0	2/18/2019	0	2
+Costello, Frank	10193	1	3	Data Analyst	Burundian	African Group	08/26/86	M 	Married	3/30/2015		Active	IT/IS	Simon Roup	4	Fully Meets	3	6	1/22/2019	0	2
+Booth, Frank	10199	4	3	Enterprise Architect	Indian	Asia Pacific Group	07/30/64	M 	Single	2/17/2014	2/19/2016	Terminated for Cause	IT/IS	Simon Roup	4	Fully Meets	5	07/01/1900	01/10/2016	0	2
+Clayton, Rick	10220	1	3	IT Support	Chilean	GRULAC	09/05/1985	M 	Single	09/05/2012		Active	IT/IS	Eric Dougall	6	Fully Meets	3	6	2/27/2019	0	2
+Biden, Lowan  M	10226	1	5	Production Technician I	Botswana	African Group	12/27/58	F	Divorced	8/19/2013		Active	Production       	Ketsia Liebig	19	Fully Meets	3	00/01/1900	01/10/2019	0	2
+Salter, Jason	10229	5	3	Data Analyst 	Austrian	WEOG	12/17/87	M 	Divorced	01/05/2015	10/31/2015	Voluntarily Terminated	IT/IS	Simon Roup	4	Fully Meets	3	5	4/20/2015	0	2
+Le, Binh	10232	1	3	Senior BI Developer	Kenyan	African Group	06/14/87	F	Single	10/02/2016		Active	IT/IS	Brian Champaigne	13	Fully Meets	5	07/01/1900	01/08/2019	0	2
+Kampew, Donysha	10244	5	6	Sales Manager	Dutch	WEOG	11/11/1989	F	Single	11/07/2011	4/24/2014	Voluntarily Terminated	Sales	Debra Houlihan	15	Fully Meets	5	0	3/30/2013	0	2
+Zima, Colleen	10271	1	5	Production Technician I	Montenegrin	Eastern European Group	08/17/78	F	Widowed	9/29/2014		Active	Production       	David Stanley	14	Fully Meets	5	0	1/30/2019	0	2
+Pelletier, Ermine	10297	5	5	Production Technician II	Chadian	African Group	07/18/89	F	Married	07/05/2011	9/15/2015	Voluntarily Terminated	Production       	Amy Dunn	11	Needs Improvement	5	00/01/1900	02/06/2015	5	2
+Fett, Boba	10309	1	3	Network Engineer	Madagascan	African Group	06/18/87	M 	Single	3/30/2015		Active	IT/IS	Peter Monroe	7	PIP	3	06/01/1900	02/04/2019	3	2
+Dee, Randy	10311	1	6	Production Technician I	Panamanian	GRULAC	04/15/88	M 	Married	07/09/2018		Active	Production       	Brannon Miller	12	Fully Meets	4	3	1/31/2019	2	2
+Girifalco, Evelyn	10018	1	5	Production Technician I	German	WEOG	05/08/1980	F	Single	9/29/2014		Active	Production       	Amy Dunn	11	Exceeds	4	00/01/1900	02/07/2019	0	3
+LaRotonda, William  	10038	1	1	Accountant I	Turkish	Asia Pacific Group	04/26/84	M 	Divorced	01/06/2014		Active	Admin Offices	Brandon R. LeBlanc	1	Fully Meets	4	4	1/17/2019	0	3
+Foster-Baker, Amy	10080	1	1	Sr. Accountant	Ghanian	African Group	04/16/79	F	Married	01/05/2009		Active	Admin Offices	Board of Directors	9	Fully Meets	3	02/01/1900	02/08/2019	0	3
+Carabbio, Judith	10085	1	4	Software Engineer	Swedish	WEOG	04/05/1987	F	Single	11/11/2013		Active	Software Engineering	Alex Sweetwater	10	Fully Meets	4	6	1/30/2019	0	3
+Burke, Joelle	10107	1	5	Production Technician II	German	WEOG	03/02/1980	F	Single	03/05/2012		Active	Production       	Amy Dunn	11	Fully Meets	4	0	2/21/2019	0	3
+Tejeda, Lenora 	10146	5	5	Production Technician II	of the USA	WEOG	05/24/53	F	Married	5/16/2011	07/08/2017	Voluntarily Terminated	Production       	Elijiah Gray	16	Fully Meets	3	0	4/18/2017	0	3
+Cierpiszewski, Caroline  	10168	1	5	Production Technician I	Kenyan	African Group	05/31/88	F	Single	10/03/2011		Active	Production       	Ketsia Liebig	19	Fully Meets	5	0	1/30/2019	0	3
+Akinkuolie, Sarah	10196	5	5	Production Technician II	Panamanian	GRULAC	09/19/88	F	Married	07/05/2011	9/24/2012	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	3	0	5/15/2012	0	3
+Knapp, Bradley  J	10208	1	5	Production Technician I	Yemeni	Asia Pacific Group	11/10/1977	M 	Single	2/17/2014		Active	Production       	Ketsia Liebig	19	Fully Meets	3	00/01/1900	02/06/2019	0	3
+England, Rex	10235	1	5	Production Technician I	Gambian	African Group	08/25/78	M 	Married	3/31/2014		Active	Production       	Kelley Spirea	18	Fully Meets	3	00/01/1900	01/11/2019	0	3
+Chivukula, Enola	10240	5	5	Production Technician I	Finnish	WEOG	08/27/83	F	Single	6/27/2011	11/15/2015	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	4	00/01/1900	03/10/2015	0	3
+Goyal, Roxana	10256	3	5	Production Technician I	Japanese	Asia Pacific Group	10/09/1974	F	Married	8/19/2013		Active	Production       	Kissy Sullivan	20	Fully Meets	5	0	2/15/2019	0	3
+Cockel, James	10261	1	5	Production Technician I	Canadian	WEOG	09/08/1977	M 	Single	07/08/2013		Active	Production       	David Stanley	14	Fully Meets	5	0	1/14/2019	0	3
+Corleone, Michael	10282	1	5	Production Manager	Djibouti	African Group	12/17/75	M 	Divorced	7/20/2010		Active	Production       	Janet King	2	Needs Improvement	2	0	1/14/2019	3	3
+Blount, Dianna	10294	1	5	Production Technician II	Sudanese	African Group	09/21/90	F	Single	04/04/2011		Active	Production       	Michael Albert	22	Needs Improvement	3	0	2/27/2019	2	3
+O'hare, Lynn	10303	4	5	Production Technician I	Kyrgyz	Asia Pacific Group	09/30/80	F	Single	3/31/2014	05/01/2018	Terminated for Cause	Production       	Kissy Sullivan	20	PIP	2	00/01/1900	03/09/2018	6	3
+Robinson, Elias	10020	1	5	Production Technician I	of Rep.of Korea	Asia Pacific Group	01/28/85	M 	Widowed	07/08/2013		Active	Production       	Brannon Miller	12	Exceeds	5	00/01/1900	02/11/2019	0	4
+Smith, Joe	10027	1	5	Production Technician II	Canadian	WEOG	10/30/63	M 	Single	9/29/2014		Active	Production       	Elijiah Gray	16	Exceeds	3	0	1/28/2019	0	4
+Dougall, Eric	10028	1	3	IT Manager - Support	Australian	WEOG	07/09/1970	M 	Single	01/05/2014		Active	IT/IS	Jennifer Zamora	5	Exceeds	5	05/01/1900	01/04/2019	0	4
+Rossetti, Bruno	10065	5	5	Production Technician I	New Zealander	WEOG	03/18/87	M 	Single	04/04/2011	8/13/2018	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	5	00/01/1900	07/02/2018	0	4
+Manchester, Robyn	10077	2	5	Production Technician II	Panamanian	GRULAC	08/25/76	F	Married	05/11/2016		Active	Production       	Webster Butler		Fully Meets	3	0	1/21/2019	0	4
+Boutwell, Bonalyn	10081	1	1	Sr. Accountant	Chilean	GRULAC	04/04/1987	F	Married	2/16/2015		Active	Admin Offices	Brandon R. LeBlanc	3	Fully Meets	4	3	2/18/2019	0	4
+Dunn, Amy  	10105	1	5	Production Manager	Canadian	WEOG	11/28/73	F	Single	9/18/2014		Active	Production       	Janet King	2	Fully Meets	4	0	1/15/2019	0	4
+Horton, Jayne	10112	1	3	Database Administrator	Belgian	WEOG	02/21/84	F	Single	3/30/2015		Active	IT/IS	Simon Roup	4	Fully Meets	5	06/01/1900	01/03/2019	0	4
+Bachiochi, Linda	10114	3	5	Production Technician I	Jamaican	GRULAC	02/11/1970	F	Single	07/06/2009		Active	Production       	Brannon Miller	12	Fully Meets	3	0	1/25/2019	0	4
+Tippett, Jeanette	10123	1	5	Production Technician I	British	WEOG	06/05/1967	F	Divorced	2/18/2013		Active	Production       	Brannon Miller	12	Fully Meets	5	0	1/14/2019	0	4
+Quinn, Sean	10131	5	1	Software Engineer	Jamaican	GRULAC	11/06/1984	M 	Married	2/21/2011	8/15/2015	Voluntarily Terminated	Software Engineering	Janet King	2	Fully Meets	4	0	4/19/2014	0	4
+Jung, Judy  	10138	5	5	Production Technician I	Russian	Eastern European Group	04/17/86	F	Married	01/10/2011	04/01/2016	Voluntarily Terminated	Production       	Elijiah Gray	16	Fully Meets	4	00/01/1900	02/03/2016	0	4
+Ren, Kylo	10140	1	6	Area Sales Manager	Indian	Asia Pacific Group	10/12/1954	M 	Married	05/12/2014		Active	Sales	John Smith	17	Fully Meets	3	0	1/28/2019	0	4
+Cady, Max 	10150	1	4	Software Engineering Manager	Uruguayan	GRULAC	11/22/66	M 	Single	8/15/2011		Active	Software Engineering	Jennifer Zamora	5	Fully Meets	3	5	1/21/2019	0	4
+Chang, Donovan  E	10154	1	5	Production Technician I	Ethiopian	African Group	08/24/83	M 	Single	07/08/2013		Active	Production       	Webster Butler		Fully Meets	5	0	1/14/2019	0	4
+Walker, Roger	10190	1	5	Production Technician II	Brazilian	GRULAC	02/10/1976	M 	Single	8/18/2014		Active	Production       	Ketsia Liebig	19	Fully Meets	5	00/01/1900	02/12/2019	0	4
+Hunts, Julissa	10201	2	5	Production Technician II	Finnish	WEOG	03/11/1984	F	Single	06/06/2016		Active	Production       	Elijiah Gray	16	Fully Meets	5	0	1/18/2019	0	4
+Nguyen, Lei-Ming	10206	1	5	Production Technician I	Mauritian	African Group	07/07/1984	F	Single	07/08/2013		Active	Production       	David Stanley	14	Fully Meets	5	00/01/1900	01/02/2019	0	4
+Hudson, Jane	10248	1	5	Production Technician I	Panamanian	GRULAC	06/10/1986	F	Single	2/20/2012		Active	Production       	Ketsia Liebig	19	Fully Meets	4	00/01/1900	01/07/2019	0	4
+Stoica, Rick	10266	1	5	Production Technician I	of the USA	WEOG	03/14/85	M 	Married	2/17/2014		Active	Production       	Kelley Spirea	18	Fully Meets	3	00/01/1900	01/11/2019	0	4
+Immediato, Walter	10289	5	5	Production Manager	Senegalese	African Group	11/15/76	M 	Married	2/21/2011	9/24/2012	Voluntarily Terminated	Production       	Janet King	2	Needs Improvement	2	00/01/1900	04/12/2012	3	4
+Saar-Beckles, Melinda	10295	2	5	Production Technician I	German	WEOG	06/06/1968	F	Single	07/04/2016		Active	Production       	Kelley Spirea	18	Needs Improvement	4	0	2/18/2019	5	4
+Ybarra, Catherine 	10301	5	5	Production Technician I	Moldovan	Eastern European Group	05/04/1982	F	Single	09/02/2008	9/29/2015	Voluntarily Terminated	Production       	Brannon Miller	12	PIP	2	00/01/1900	09/02/2015	5	4
+Harrison, Kara	10007	1	5	Production Technician I	Bahraini	Asia Pacific Group	05/02/1974	F	Married	05/12/2014		Active	Production       	Amy Dunn	11	Exceeds	4	0	2/15/2019	0	5
+Clukey, Elijian	10029	2	5	Production Technician I	Jamaican	GRULAC	08/26/80	M 	Married	07/06/2016		Active	Production       	Brannon Miller	12	Exceeds	4	0	2/28/2019	0	5
+Cross, Noah	10083	1	3	Sr. Network Engineer	Kenyan	African Group	09/09/1965	M 	Single	11/10/2014		Active	IT/IS	Peter Monroe	7	Fully Meets	3	04/01/1900	01/02/2019	0	5
+Nowlan, Kristie	10104	1	5	Production Technician II	Thai	Asia Pacific Group	11/23/85	F	Single	11/10/2014		Active	Production       	Elijiah Gray	16	Fully Meets	5	0	1/16/2019	0	5
+Garcia, Raul	10111	1	5	Production Technician I	Kenyan	African Group	09/15/85	M 	Single	3/30/2015		Active	Production       	David Stanley	14	Fully Meets	3	0	2/18/2019	0	5
+Perry, Shakira	10171	5	5	Production Technician I	German	WEOG	07/20/86	F	Single	5/16/2011	10/25/2015	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	4	0	5/13/2014	0	5
+Bondwell, Betsy	10267	5	5	Production Technician II	Mexican	GRULAC	01/16/67	F	Single	01/10/2011	04/04/2014	Voluntarily Terminated	Production       	Elijiah Gray	16	Fully Meets	5	00/01/1900	03/04/2014	0	5
+Trzeciak, Cybil	10270	5	5	Production Technician II	French	WEOG	03/15/85	F	Single	01/10/2011	07/02/2014	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	3	00/01/1900	01/05/2014	0	5
+Wallace, Courtney  E	10274	5	5	Production Manager	Panamanian	GRULAC	11/14/55	F	Married	9/26/2011	01/02/2012	Voluntarily Terminated	Production       	Janet King	2	Fully Meets	3	00/01/1900	01/02/2012	0	5
+Erilus, Angela	10299	1	5	Production Technician II	Australian	WEOG	08/25/89	F	Separated	07/07/2014		Active	Production       	Michael Albert	22	PIP	1	0	2/25/2019	2	5
+Delarge, Alex	10306	1	6	Area Sales Manager	Moroccan	African Group	11/02/1975	M 	Single	9/29/2014		Active	Sales	John Smith	17	PIP	3	0	1/30/2019	6	5
+Stansfield, Norman	10307	1	6	Area Sales Manager	Syrian	Asia Pacific Group	05/09/1974	M 	Married	05/12/2014		Active	Sales	Lynn Daneault	21	PIP	2	0	1/17/2019	3	5
+Torrence, Jack	10013	1	6	Area Sales Manager	Chilean	GRULAC	01/15/68	M 	Separated	01/09/2006		Active	Sales	Lynn Daneault	21	Exceeds	3	00/01/1900	01/04/2019	0	6
+Lydon, Allison	10057	3	5	Production Technician I	Thai	Asia Pacific Group	10/22/75	F	Married	2/16/2015		Active	Production       	Elijiah Gray	16	Fully Meets	3	0	1/23/2019	0	6
+Cornett, Lisa 	10094	1	5	Production Technician I	Spanish	WEOG	03/31/77	F	Married	01/05/2015		Active	Production       	Kelley Spirea	18	Fully Meets	5	0	2/14/2019	0	6
+Peterson, Ebonee  	10130	5	5	Production Manager	Austrian	WEOG	05/09/1977	F	Married	10/25/2010	5/18/2016	Voluntarily Terminated	Production       	Janet King	2	Fully Meets	5	00/01/1900	03/05/2015	0	6
+Davis, Daniel	10143	1	5	Production Technician II	Jamaican	GRULAC	09/14/79	M 	Single	11/07/2011		Active	Production       	Kissy Sullivan	20	Fully Meets	4	0	2/27/2019	0	6
+Morway, Tanya	10151	1	3	Network Engineer	French	WEOG	04/04/1979	F	Married	2/16/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	3	06/01/1900	02/11/2019	0	6
+Foreman, Tanya	10163	5	5	Production Technician II	Kenyan	African Group	11/08/1983	F	Married	04/04/2011	01/09/2013	Voluntarily Terminated	Production       	Ketsia Liebig	19	Fully Meets	3	00/01/1900	01/07/2012	0	6
+Kirill, Alexandra  	10170	5	5	Production Technician I	Kenyan	African Group	10/08/1970	F	Married	9/26/2011	01/09/2014	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	4	0	1/30/2013	0	6
+Brill, Donna	10177	5	5	Production Technician I	French	WEOG	08/24/90	F	Married	04/02/2012	6/15/2013	Voluntarily Terminated	Production       	David Stanley	14	Fully Meets	4	00/01/1900	03/04/2013	0	6
+Howard, Estelle	10182	1	1	Administrative Assistant	German	WEOG	09/16/85	F	Married	2/16/2015	4/15/2015	Terminated for Cause	Admin Offices	Brandon R. LeBlanc	1	Fully Meets	3	4	4/15/2015	0	6
+Dunne, Amy	10211	1	5	Production Technician I	Madagascan	African Group	09/23/73	F	Married	4/26/2010		Active	Production       	Ketsia Liebig	19	Fully Meets	3	0	1/21/2019	0	6
+Hutter, Rosalie	10214	2	5	Production Technician II	British	WEOG	05/07/1992	F	Separated	06/05/2015		Active	Production       	Webster Butler		Fully Meets	3	0	2/14/2019	0	6
+Close, Phil	10269	5	5	Production Technician II	British	WEOG	11/25/78	M 	Married	8/30/2010	9/26/2011	Voluntarily Terminated	Production       	David Stanley	14	Fully Meets	4	00/01/1900	05/04/2011	0	6
+Owad, Clinton	10281	1	5	Production Technician I	Norwegian	WEOG	11/24/79	M 	Single	2/17/2014		Active	Production       	Michael Albert	22	Needs Improvement	3	00/01/1900	02/04/2019	4	6
+DiNocco, Lily 	10284	1	5	Production Technician I	Iranian	Asia Pacific Group	12/02/1978	F	Married	01/07/2013		Active	Production       	Brannon Miller	12	Needs Improvement	4	0	1/18/2019	0	6
+Miller, Ned	10298	5	5	Production Technician II	Kenyan	African Group	06/29/85	M 	Single	8/15/2011	09/04/2014	Voluntarily Terminated	Production       	Brannon Miller	12	PIP	2	0	1/14/2013	6	6
+Winthrop, Jordan  	10033	5	5	Production Technician II	Greek	WEOG	11/07/1958	M 	Single	01/07/2013	2/21/2016	Voluntarily Terminated	Production       	Brannon Miller	12	Exceeds	3	0	1/19/2016	0	7
+Carter, Michelle 	10040	1	6	Area Sales Manager	South African	African Group	05/15/63	F	Single	8/18/2014		Active	Sales	John Smith	17	Fully Meets	5	0	1/21/2019	0	7
+Wilber, Barry	10048	5	5	Production Technician I	Russian	Eastern European Group	09/09/1965	M 	Married	5/16/2011	09/07/2015	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	3	0	2/15/2015	0	7
+Eaton, Marianne	10064	5	5	Production Technician I	Kenyan	African Group	09/05/1991	F	Married	04/04/2011	06/06/2017	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	3	00/01/1900	04/09/2017	0	7
+Carr, Claudia  N	10082	2	3	Sr. DBA	Canadian	WEOG	06/06/1986	F	Single	6/30/2016		Active	IT/IS	Simon Roup	4	Fully Meets	5	6	2/18/2019	0	7
+Lajiri,  Jyoti	10113	3	3	Sr. Network Engineer	Thai	Asia Pacific Group	04/23/86	M 	Married	11/10/2014		Active	IT/IS	Peter Monroe	7	Fully Meets	5	06/01/1900	01/07/2019	0	7
+Warfield, Sarah	10127	1	3	Sr. Network Engineer	Brazilian	GRULAC	05/02/1978	F	Widowed	3/30/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	4	08/01/1900	02/05/2019	0	7
+Fancett, Nicole	10136	1	5	Production Technician II	Canadian	WEOG	09/27/87	F	Single	2/17/2014		Active	Production       	Webster Butler		Fully Meets	4	00/01/1900	01/07/2019	0	7
+Linden, Mathew	10137	3	5	Production Technician II	Ugandan	African Group	03/19/79	M 	Married	07/08/2013		Active	Production       	Kelley Spirea	18	Fully Meets	3	0	2/18/2019	0	7
+Gill, Whitney  	10142	4	6	Area Sales Manager	French	WEOG	07/10/1971	F	Widowed	07/07/2014	09/05/2015	Terminated for Cause	Sales	John Smith	17	Fully Meets	4	0	1/15/2014	0	7
+Panjwani, Nina	10148	5	5	Production Technician I	British	WEOG	05/01/1979	F	Married	02/07/2011	01/12/2014	Voluntarily Terminated	Production       	Elijiah Gray	16	Fully Meets	4	00/01/1900	03/04/2013	0	7
+Shepard, Anita 	10179	1	3	Network Engineer	Filipino	Asia Pacific Group	04/14/81	F	Married	9/30/2014		Active	IT/IS	Peter Monroe	7	Fully Meets	3	06/01/1900	01/07/2019	0	7
+Von Massenbach, Anna	10183	2	5	Production Technician I	Jamaican	GRULAC	04/06/1985	F	Single	07/05/2015		Active	Production       	Michael Albert	22	Fully Meets	3	0	1/29/2019	0	7
+McKinzie, Jac	10202	2	6	Area Sales Manager	Haitian	GRULAC	07/01/1984	M 	Married	07/06/2016		Active	Sales	Lynn Daneault	21	Fully Meets	4	0	1/29/2019	0	7
+Jackson, Maryellen	10227	1	5	Production Technician I	Brazilian	GRULAC	09/11/1972	F	Single	11/05/2012		Active	Production       	David Stanley	14	Fully Meets	3	0	1/17/2019	0	7
+Jacobi, Hannah  	10236	1	5	Production Technician I	Canadian	WEOG	03/22/66	F	Divorced	9/30/2013		Active	Production       	Kissy Sullivan	20	Fully Meets	5	0	2/22/2019	0	7
+Gold, Shenice  	10243	1	5	Production Technician I	Sierra Leonean	African Group	06/18/92	F	Single	11/11/2013		Active	Production       	Ketsia Liebig	19	Fully Meets	5	0	2/18/2019	0	7
+Fraval, Maruk 	10258	1	6	Area Sales Manager	British	WEOG	08/28/63	M 	Single	09/06/2011		Active	Sales	Lynn Daneault	21	Fully Meets	3	0	1/27/2019	2	7
+Sadki, Nore  	10260	5	5	Production Technician I	German	WEOG	12/21/74	M 	Single	01/05/2009	7/30/2018	Voluntarily Terminated	Production       	Michael Albert	22	Fully Meets	5	00/01/1900	02/05/2018	0	7
+Barone, Francesco  A	10265	1	5	Production Technician I	South African	African Group	07/20/83	M 	Single	2/20/2012		Active	Production       	Kelley Spirea	18	Fully Meets	4	0	2/14/2019	0	7
+Forrest, Alex	10305	1	6	Area Sales Manager	Ghanian	African Group	07/07/1975	M 	Married	9/29/2014	8/19/2018	Terminated for Cause	Sales	Lynn Daneault	21	PIP	5	0	1/28/2019	4	7
+Turpin, Jumil	10045	1	3	Network Engineer	British	WEOG	03/31/69	M 	Married	3/30/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	4	7	1/14/2019	0	8
+Maurice, Shana	10053	1	5	Production Technician I	Tanzanian	African Group	11/22/77	F	Married	5/31/2011		Active	Production       	David Stanley	14	Fully Meets	4	00/01/1900	01/10/2019	0	8
+Rose, Ashley  	10054	1	5	Production Technician I	Costa Rican	GRULAC	12/05/1974	F	Separated	01/06/2014		Active	Production       	David Stanley	14	Fully Meets	4	0	1/31/2019	0	8
+Harrington, Christie 	10097	5	5	Production Technician I	Filipino	Asia Pacific Group	08/18/52	F	Single	01/09/2012	12/15/2015	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	4	00/01/1900	05/02/2015	0	8
+Daneault, Lynn	10099	1	6	Sales Manager	Rwandese	African Group	04/19/90	F	Single	05/05/2014		Active	Sales	Debra Houlihan	15	Fully Meets	4	0	1/24/2019	0	8
+Champaigne, Brian	10108	1	3	BI Director	German	WEOG	02/09/1972	M 	Married	09/06/2016		Active	IT/IS	Jennifer Zamora	5	Fully Meets	5	7	1/15/2019	0	8
+Del Bosque, Keyla	10155	1	4	Software Engineer	Kenyan	African Group	07/05/1979	F	Single	01/09/2012		Active	Software Engineering	Alex Sweetwater	10	Fully Meets	5	5	1/25/2019	0	8
+Ruiz, Ricardo	10222	5	3	IT Manager - DB	Canadian	WEOG	01/04/1964	M 	Divorced	01/09/2012	11/04/2015	Voluntarily Terminated	IT/IS	Jennifer Zamora	5	Fully Meets	4	06/01/1900	01/04/2015	0	8
+Gruber, Hans	10234	1	3	BI Developer	Eritrean	African Group	06/30/89	M 	Married	4/20/2017		Active	IT/IS	Brian Champaigne	13	Fully Meets	5	5	1/28/2019	0	8
+Becker, Renee	10245	4	3	Database Administrator	Argentinian	GRULAC	04/04/1986	F	Single	07/07/2014	09/12/2015	Terminated for Cause	IT/IS	Simon Roup	4	Fully Meets	4	5	1/15/2015	0	8
+Engdahl, Jean	10247	1	5	Production Technician I	Spanish	WEOG	05/31/74	M 	Single	11/10/2014		Active	Production       	Kelley Spirea	18	Fully Meets	5	0	2/13/2019	0	8
+Barbossa, Hector	10012	1	3	Data Analyst	Cuban	GRULAC	07/04/1988	M 	Divorced	11/10/2014		Active	IT/IS	Simon Roup	4	Exceeds	4	5	2/25/2019	0	9
+Johnson, George	10034	5	5	Production Technician I	Pakistani	Asia Pacific Group	08/19/59	M 	Married	11/07/2011	4/29/2018	Voluntarily Terminated	Production       	Michael Albert	22	Exceeds	4	0	2/14/2018	0	9
+Jhaveri, Sneha  	10060	1	5	Production Technician I	Canadian	WEOG	04/13/64	F	Separated	01/06/2014		Active	Production       	Kelley Spirea	18	Fully Meets	5	0	1/21/2019	0	9
+Landa, Hans	10092	4	5	Production Manager	Belgian	WEOG	07/01/1972	M 	Married	01/10/2011	12/12/2015	Terminated for Cause	Production       	Janet King	2	Fully Meets	4	0	2/15/2015	0	9
+True, Edward	10102	5	4	Software Engineer	of the USA	WEOG	06/14/83	M 	Single	2/18/2013	4/15/2018	Voluntarily Terminated	Software Engineering	Alex Sweetwater	10	Fully Meets	3	04/01/1900	02/12/2017	0	9
+Voldemort, Lord	10118	4	3	Database Administrator	Kenyan	African Group	08/07/1986	M 	Married	2/16/2015	2/22/2017	Terminated for Cause	IT/IS	Simon Roup	4	Fully Meets	3	7	2/15/2017	0	9
+Potts, Xana	10124	1	6	Area Sales Manager	Russian	Eastern European Group	08/29/88	F	Married	01/09/2012		Active	Sales	Lynn Daneault	21	Fully Meets	5	00/01/1900	02/01/2019	0	9
+Steans, Tyrone  	10147	1	1	Accountant I	French	WEOG	09/01/1986	M 	Single	9/29/2014		Active	Admin Offices	Brandon R. LeBlanc	1	Fully Meets	5	5	1/18/2019	0	9
+Hitchcock, Alfred	10167	1	6	Area Sales Manager	German	WEOG	09/14/88	M 	Married	8/18/2014		Active	Sales	John Smith	17	Fully Meets	5	0	1/30/2019	0	9
+Buccheri, Joseph  	10184	1	5	Production Technician II	Turkmenian	Eastern European Group	07/28/83	M 	Single	9/29/2014		Active	Production       	Webster Butler		Fully Meets	3	00/01/1900	02/01/2019	0	9
+Wilkes, Annie	10204	5	5	Production Technician I	Austrian	WEOG	07/30/83	F	Divorced	01/10/2011	5/14/2012	Voluntarily Terminated	Production       	Ketsia Liebig	19	Fully Meets	5	00/01/1900	02/06/2011	0	9
+Cloninger, Jennifer	10275	5	5	Production Technician II	Eritrean	African Group	08/31/81	F	Married	5/16/2011	01/07/2013	Voluntarily Terminated	Production       	Brannon Miller	12	Fully Meets	5	00/01/1900	05/03/2012	0	9
+Stanford,Barbara  M	10278	1	5	Production Technician I	Indian	Asia Pacific Group	08/25/82	F	Divorced	01/10/2011		Active	Production       	Kissy Sullivan	20	Fully Meets	4	00/01/1900	02/07/2019	0	9
+Desimone, Carl 	10310	1	5	Production Technician I	Nigerian	African Group	04/19/67	M 	Married	07/07/2014		Active	Production       	Amy Dunn	11	PIP	2	0	1/31/2019	4	9
+Medeiros, Jennifer	10068	1	5	Production Technician I	Cameroonian	African Group	09/22/76	F	Single	3/30/2015		Active	Production       	Michael Albert	22	Fully Meets	4	0	1/21/2019	0	10
+King, Janet	10089	1	2	President & CEO	French	WEOG	09/21/54	F	Married	07/02/2012		Active	Executive Office	Board of Directors	9	Fully Meets	3	0	1/17/2019	0	10
+Sullivan, Timothy	10117	1	5	Production Technician I	of Seychelles	African Group	10/07/1982	M 	Married	01/05/2015		Active	Production       	Michael Albert	22	Fully Meets	5	0	1/24/2019	0	10
+Ndzi, Horia	10185	5	5	Production Technician I	Cameroonian	African Group	03/28/83	M 	Married	04/01/2013	5/25/2016	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	3	00/01/1900	03/06/2016	0	10
+Keatts, Kramer 	10192	1	5	Production Technician I	Australian	WEOG	01/19/76	M 	Single	9/30/2013		Active	Production       	Michael Albert	22	Fully Meets	4	0	1/23/2019	0	10
+Roberson, May	10230	5	5	Production Technician II	Swedish	WEOG	09/05/1981	F	Divorced	9/26/2011	10/22/2011	Voluntarily Terminated	Production       	David Stanley	14	Fully Meets	4	0	10/22/2011	0	10
+Rachael, Maggie	10239	1	3	BI Developer	French	WEOG	05/12/1980	F	Married	10/02/2016		Active	IT/IS	Brian Champaigne	13	Fully Meets	4	06/01/1900	02/06/2019	0	10
+Goble, Taisha	10246	4	3	Database Administrator	Ugandan	African Group	10/23/71	F	Single	2/16/2015	3/15/2015	Terminated for Cause	IT/IS	Simon Roup	4	Fully Meets	4	4	1/20/2015	0	10
+Lecter, Hannibal	10251	1	5	Production Technician I	Ugandan	African Group	09/02/1982	M 	Married	5/14/2012		Active	Production       	Elijiah Gray	16	Fully Meets	3	0	2/22/2019	0	10
+Gonzalez, Juan	10300	5	5	Production Technician II	of the USA	WEOG	10/12/1964	M 	Married	4/26/2010	5/30/2011	Voluntarily Terminated	Production       	Brannon Miller	12	PIP	3	00/01/1900	03/06/2011	3	10
+Jeannite, Tayana	10009	1	5	Production Technician II	Kenyan	African Group	11/06/1986	F	Divorced	07/05/2011		Active	Production       	Ketsia Liebig	19	Exceeds	4	0	2/25/2019	0	11
+Liebig, Ketsia	10017	1	5	Production Manager	Kyrgyz	Asia Pacific Group	10/26/81	F	Married	9/30/2013		Active	Production       	Janet King	2	Exceeds	3	0	1/21/2019	0	11
+Zhou, Julia	10043	1	3	Data Analyst	Ethiopian	African Group	02/24/79	F	Single	3/30/2015		Active	IT/IS	Simon Roup	4	Fully Meets	3	05/01/1900	02/01/2019	0	11
+Tredinnick, Neville 	10044	5	3	Network Engineer	Austrian	WEOG	05/05/1988	M 	Married	01/05/2015	02/12/2016	Voluntarily Terminated	IT/IS	Peter Monroe	7	Fully Meets	3	5	4/15/2015	0	11
+Robinson, Alain  	10047	5	5	Production Technician I	Finnish	WEOG	01/07/1974	M 	Married	01/10/2011	1/26/2016	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	3	00/01/1900	01/10/2015	0	11
+Rhoads, Thomas	10058	5	5	Production Technician I	of the USA	WEOG	07/22/82	M 	Divorced	5/16/2011	1/15/2016	Voluntarily Terminated	Production       	Elijiah Gray	16	Fully Meets	4	0	3/30/2015	0	11
+Newman, Richard 	10063	3	5	Production Technician I	Montenegrin	Eastern European Group	04/08/1977	M 	Married	05/12/2014		Active	Production       	Ketsia Liebig	19	Fully Meets	5	0	2/18/2019	0	11
+Chace, Beatrice 	10067	1	5	Production Technician I	Indian	Asia Pacific Group	01/02/1951	F	Single	9/29/2014		Active	Production       	Michael Albert	22	Fully Meets	4	00/01/1900	02/12/2019	0	11
+Whittier, Scott	10072	5	5	Production Technician I	British	WEOG	05/24/87	M 	Single	01/10/2011	5/15/2014	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	5	0	5/15/2014	0	11
+Gonzalez, Maria	10101	1	3	IT Support	Liberian	African Group	04/16/81	F	Separated	01/05/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	4	5	1/28/2019	0	11
+Moumanil, Maliki 	10120	1	5	Production Technician II	French	WEOG	12/01/1974	M 	Separated	5/13/2013		Active	Production       	Michael Albert	22	Fully Meets	5	0	1/28/2019	0	11
+Chan, Lin	10210	1	5	Production Technician I	Egyptian	African Group	02/12/1979	F	Single	05/12/2014		Active	Production       	Elijiah Gray	16	Fully Meets	4	0	2/19/2019	0	11
+Tavares, Desiree  	10221	5	5	Production Technician I	German	WEOG	04/03/1975	F	Married	4/27/2009	04/01/2013	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	5	0	2/15/2012	0	11
+Villanueva, Noah	10253	1	6	Area Sales Manager	Tanzanian	African Group	07/11/1989	M 	Single	03/05/2012		Active	Sales	John Smith	17	Fully Meets	4	0	1/18/2019	0	11
+Mangal, Debbie	10279	1	5	Production Technician I	Greek	WEOG	11/07/1974	F	Married	11/11/2013		Active	Production       	Brannon Miller	12	Fully Meets	3	0	1/22/2019	0	11
+Peters, Lauren	10032	5	5	Production Technician II	British	WEOG	08/17/86	F	Married	5/16/2011	02/04/2013	Voluntarily Terminated	Production       	Ketsia Liebig	19	Exceeds	5	00/01/1900	01/10/2013	0	12
+Ngodup, Shari 	10037	1	5	Production Technician I	Finnish	WEOG	06/03/1967	F	Separated	04/01/2013		Active	Production       	Brannon Miller	12	Exceeds	3	0	2/13/2019	0	12
+Beatrice, Courtney 	10055	1	5	Production Technician I	Bhutanese	Asia Pacific Group	10/27/70	F	Single	04/04/2011		Active	Production       	Elijiah Gray	16	Fully Meets	5	0	1/14/2019	0	12
+Roehrich, Bianca	10149	5	3	Principal Data Architect	Albanian	Eastern European Group	05/27/73	F	Single	01/05/2015	11/10/2018	Voluntarily Terminated	IT/IS	Simon Roup	4	Fully Meets	3	7	2/13/2018	0	12
+Sullivan, Kissy 	10158	1	5	Production Manager	Indian	Asia Pacific Group	03/28/78	F	Married	01/08/2009		Active	Production       	Janet King	2	Fully Meets	4	0	1/24/2019	0	12
+Moran, Patrick	10223	3	5	Production Technician II	Chinese	Asia Pacific Group	12/03/1976	M 	Single	01/09/2012		Active	Production       	Kelley Spirea	18	Fully Meets	4	0	1/31/2019	0	12
+Baczenski, Rachael  	10252	5	5	Production Technician I	South African	African Group	01/12/1974	F	Married	01/10/2011	01/12/2017	Voluntarily Terminated	Production       	David Stanley	14	Fully Meets	4	0	1/30/2016	0	12
+Gaul, Barbara	10257	1	5	Production Technician I	Indian	Asia Pacific Group	12/02/1983	F	Single	5/16/2011		Active	Production       	Kelley Spirea	18	Fully Meets	4	0	2/26/2019	0	12
+Patronick, Lucas	10005	5	4	Software Engineer	Thai	Asia Pacific Group	02/20/79	M 	Single	11/07/2011	09/07/2015	Voluntarily Terminated	Software Engineering	Alex Sweetwater	10	Exceeds	5	3	8/16/2015	0	13
+Osturnka, Adeel	10021	1	5	Production Technician I	Kenyan	African Group	12/11/1976	M 	Married	9/30/2013		Active	Production       	Kelley Spirea	18	Exceeds	3	00/01/1900	02/07/2019	0	13
+Bernstein, Sean	10046	1	5	Production Technician I	Namibian	African Group	12/22/70	M 	Single	04/02/2012		Active	Production       	Amy Dunn	11	Fully Meets	3	0	1/14/2019	0	13
+Pham, Hong	10050	5	5	Production Technician I	of the USA	WEOG	03/06/1988	M 	Married	07/05/2011	11/30/2012	Voluntarily Terminated	Production       	Brannon Miller	12	Fully Meets	3	0	2/20/2012	0	13
+Langton, Enrico	10052	1	5	Production Technician I	British	WEOG	12/09/1986	M 	Married	07/09/2012		Active	Production       	David Stanley	14	Fully Meets	5	00/01/1900	02/04/2019	0	13
+Handschiegl, Joanne	10125	1	5	Production Technician I	Mexican	GRULAC	03/23/77	F	Married	11/28/2011		Active	Production       	Michael Albert	22	Fully Meets	4	0	2/22/2019	0	13
+Woodson, Jason	10135	1	5	Production Technician II	Panamanian	GRULAC	05/11/1985	M 	Single	07/07/2014		Active	Production       	Kissy Sullivan	20	Fully Meets	4	0	2/28/2019	0	13
+Soze, Keyser	10180	2	3	Sr. Network Engineer	Japanese	Asia Pacific Group	02/09/1983	M 	Married	6/30/2016		Active	IT/IS	Peter Monroe	7	Fully Meets	4	5	1/14/2019	0	13
+Roup,Simon	10198	1	3	IT Manager - DB	Kenyan	African Group	04/05/1973	M 	Single	1/20/2013		Active	IT/IS	Jennifer Zamora	5	Fully Meets	5	7	2/18/2019	0	13
+Sutwell, Barbara	10209	1	5	Production Technician I	Russian	Eastern European Group	08/15/68	F	Single	5/14/2012		Active	Production       	Elijiah Gray	16	Fully Meets	5	0	1/31/2019	0	13
+Myers, Michael	10216	1	5	Production Technician I	Kenyan	African Group	04/18/80	M 	Single	07/08/2013		Active	Production       	Kissy Sullivan	20	Fully Meets	4	0	1/22/2019	0	13
+Robertson, Peter	10224	5	5	Production Technician II	Ethiopian	African Group	07/03/1972	M 	Married	07/05/2011	02/08/2012	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	5	00/01/1900	01/06/2012	0	13
+Khemmich, Bartholemew	10231	1	6	Area Sales Manager	Australian	WEOG	11/27/79	M 	Single	8/19/2013		Active	Sales	Lynn Daneault	21	Fully Meets	5	0	1/22/2019	0	13
+Sahoo, Adil	10233	1	5	Production Technician II	Afghan	Asia Pacific Group	04/26/86	M 	Married	8/30/2010		Active	Production       	Kelley Spirea	18	Fully Meets	3	00/01/1900	01/10/2019	0	13
+Becker, Scott	10277	3	5	Production Technician I	Panamanian	GRULAC	04/06/1979	M 	Single	07/08/2013		Active	Production       	Webster Butler		Fully Meets	4	00/01/1900	01/11/2019	0	13
+Monroe, Peter	10288	1	3	IT Manager - Infra	German	WEOG	10/05/1986	M 	Married	2/15/2012		Active	IT/IS	Jennifer Zamora	5	Needs Improvement	3	6	2/22/2019	4	13
+Wallace, Theresa	10293	5	5	Production Technician I	Swedish	WEOG	08/02/1980	F	Single	8/13/2012	09/01/2015	Voluntarily Terminated	Production       	Elijiah Gray	16	Needs Improvement	3	00/01/1900	09/05/2014	6	13
+Candie, Calvin	10001	1	5	Production Manager	Belgian	WEOG	08/09/1983	M 	Single	1/28/2016		Active	Production       	Janet King	2	Exceeds	3	0	2/22/2019	0	14
+Driver, Elle	10006	1	6	Area Sales Manager	Kenyan	African Group	11/08/1988	F	Single	01/10/2011		Active	Sales	Lynn Daneault	21	Exceeds	5	0	1/27/2019	0	14
+Lindsay, Leonara 	10008	1	3	IT Support	Kenyan	African Group	10/05/1988	F	Single	1/21/2011		Active	IT/IS	Eric Dougall	6	Exceeds	4	5	1/25/2019	0	14
+DeGweck,  James	10070	5	5	Production Technician I	Bahamian	GRULAC	10/31/77	M 	Married	5/16/2011	06/08/2016	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	4	00/01/1900	04/02/2016	0	14
+Sewkumar, Nori	10071	3	5	Production Technician I	French	WEOG	03/10/1975	F	Single	9/30/2013		Active	Production       	Webster Butler		Fully Meets	5	00/01/1900	02/06/2019	0	14
+Martin, Sandra	10110	1	4	Software Engineer	Kenyan	African Group	11/07/1987	F	Single	11/11/2013		Active	Software Engineering	Alex Sweetwater	10	Fully Meets	5	4	1/14/2019	0	14
+Carey, Michael  	10115	1	5	Production Technician I	Senegalese	African Group	02/02/1983	M 	Single	3/31/2014		Active	Production       	Kelley Spirea	18	Fully Meets	3	00/01/1900	02/01/2019	0	14
+Ivey, Rose 	10139	1	5	Production Technician I	Australian	WEOG	01/28/91	F	Single	8/19/2013		Active	Production       	Brannon Miller	12	Fully Meets	3	0	1/14/2019	0	14
+Tannen, Biff	10173	1	3	BI Developer	Fijian	Asia Pacific Group	10/24/87	M 	Married	4/20/2017		Active	IT/IS	Brian Champaigne	13	Fully Meets	3	06/01/1900	01/02/2019	0	14
+Wolk, Hang  T	10174	1	5	Production Technician II	Uruguayan	GRULAC	04/20/85	F	Single	9/29/2014		Active	Production       	David Stanley	14	Fully Meets	4	0	2/21/2019	0	14
+Bozzi, Charles	10175	5	5	Production Manager	French	WEOG	03/10/1970	M 	Single	9/30/2013	08/07/2014	Voluntarily Terminated	Production       	Janet King	2	Fully Meets	3	0	2/20/2014	0	14
+Power, Morissa	10187	5	5	Production Technician I	Egyptian	African Group	10/15/84	F	Divorced	5/16/2011	06/04/2018	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	4	00/01/1900	04/02/2018	0	14
+Monkfish, Erasumus	10213	1	5	Production Technician II	Chinese	Asia Pacific Group	08/17/92	M 	Married	11/07/2011		Active	Production       	David Stanley	14	Fully Meets	3	00/01/1900	01/08/2019	0	14
+Petingill, Shana  	10217	1	5	Production Technician II	French	WEOG	03/10/1979	F	Married	04/02/2012		Active	Production       	Brannon Miller	12	Fully Meets	3	0	1/14/2019	0	14
+Mahoney, Lauren  	10219	1	5	Production Technician I	Belgian	WEOG	07/07/1986	F	Single	01/06/2014		Active	Production       	Ketsia Liebig	19	Fully Meets	4	0	2/26/2019	0	14
+Punjabhi, Louis  	10225	1	5	Production Technician I	Kenyan	African Group	06/19/61	M 	Single	01/06/2014		Active	Production       	Kelley Spirea	18	Fully Meets	3	00/01/1900	01/07/2019	0	14
+Brown, Mia	10238	1	1	Accountant I	Syrian	Asia Pacific Group	11/24/87	F	Married	10/27/2008		Active	Admin Offices	Brandon R. LeBlanc	1	Fully Meets	2	6	1/15/2019	0	14
+Anderson, Linda  	10002	1	5	Production Technician I	Panamanian	GRULAC	05/22/77	F	Single	01/09/2012		Active	Production       	Amy Dunn	11	Exceeds	5	00/01/1900	01/07/2019	0	15
+Veera, Abdellah 	10014	5	5	Production Technician I	Canadian	WEOG	01/31/87	M 	Divorced	8/13/2012	02/05/2016	Voluntarily Terminated	Production       	Kissy Sullivan	20	Exceeds	5	00/01/1900	02/01/2016	0	15
+Foss, Jason	10015	1	3	IT Director	Kenyan	African Group	07/05/1980	M 	Single	4/15/2011		Active	IT/IS	Jennifer Zamora	5	Exceeds	5	05/01/1900	01/07/2019	0	15
+Corleone, Vito	10019	1	5	Director of Operations	Kenyan	African Group	03/19/83	M 	Single	01/05/2009		Active	Production       	Janet King	2	Exceeds	5	00/01/1900	02/04/2019	0	15
+Hendrickson, Trina	10075	5	5	Production Technician II	Malaysian	Asia Pacific Group	08/27/72	F	Single	01/10/2011	6/18/2013	Voluntarily Terminated	Production       	Kelley Spirea	18	Fully Meets	3	0	1/30/2013	0	15
+Alagbe,Trina	10088	1	5	Production Technician I	Algerian	African Group	09/27/88	F	Married	01/07/2008		Active	Production       	Elijiah Gray	16	Fully Meets	5	00/01/1900	01/03/2019	0	15
+Spirea, Kelley	10090	1	5	Production Manager	British	WEOG	09/30/75	F	Married	10/02/2012		Active	Production       	Janet King	2	Fully Meets	5	0	2/14/2019	0	15
+Shields, Seffi	10091	1	5	Production Technician I	British	WEOG	08/24/85	F	Married	8/19/2013		Active	Production       	Amy Dunn	11	Fully Meets	4	0	2/15/2019	0	15
+Lundy, Susan	10096	5	5	Production Technician II	French	WEOG	12/26/76	F	Widowed	07/08/2013	9/15/2016	Voluntarily Terminated	Production       	Michael Albert	22	Fully Meets	4	00/01/1900	06/10/2016	0	15
+Crimmings,   Jean	10132	2	5	Production Technician I	French	WEOG	04/10/1987	F	Single	07/06/2016		Active	Production       	Michael Albert	22	Fully Meets	5	0	1/28/2019	0	15
+Roby, Lori 	10162	1	3	Data Analyst	Indian	Asia Pacific Group	10/11/1981	F	Married	2/16/2015		Active	IT/IS	Simon Roup	4	Fully Meets	5	6	2/14/2019	0	15
+Pitt, Brad 	10164	1	5	Production Technician I	Cameroonian	African Group	11/23/81	M 	Single	11/05/2007		Active	Production       	David Stanley	14	Fully Meets	3	0	2/25/2019	0	15
+Burkett, Benjamin 	10181	1	5	Production Technician II	Spanish	WEOG	08/19/77	M 	Married	04/04/2011		Active	Production       	Ketsia Liebig	19	Fully Meets	5	0	1/14/2019	0	15
+DeVito, Tommy	10197	1	3	BI Developer	Kenyan	African Group	09/04/1983	M 	Single	2/15/2017		Active	IT/IS	Brian Champaigne	13	Fully Meets	5	7	1/23/2019	0	15
+Dobrin, Denisa  S	10207	1	5	Production Technician I	Zimbabwean	African Group	10/07/1986	F	Single	04/02/2012		Active	Production       	David Stanley	14	Fully Meets	5	0	2/19/2019	0	15
+Barbara, Thomas	10242	5	5	Production Technician I	Colombian	GRULAC	02/21/74	M 	Married	04/02/2012	9/19/2016	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	3	00/01/1900	05/06/2016	0	15
+Thibaud, Kenneth	10268	5	5	Production Technician II	German	WEOG	09/16/75	M 	Widowed	6/25/2007	8/30/2010	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	4	0	7/14/2010	0	15
+Gilles, Alex	10283	5	5	Production Technician I	Kenyan	African Group	08/09/1974	M 	Married	04/02/2012	6/25/2015	Voluntarily Terminated	Production       	Webster Butler	39	Needs Improvement	4	0	1/20/2015	3	15
+Smith, Martin	10286	5	5	Production Technician I	Nepalese	Asia Pacific Group	03/17/88	M 	Single	01/10/2011	12/28/2017	Voluntarily Terminated	Production       	Webster Butler	39	Needs Improvement	5	00/01/1900	04/06/2017	4	15
+Fernandes, Nilson  	10308	1	5	Production Technician I	Kenyan	African Group	10/18/89	M 	Married	05/11/2015		Active	Production       	Amy Dunn	11	PIP	5	00/01/1900	01/03/2019	6	15
+Zamora, Jennifer	10010	1	3	CIO	Pakistani	Asia Pacific Group	08/30/79	F	Single	04/10/2010		Active	IT/IS	Janet King	2	Exceeds	5	6	2/21/2019	0	16
+Rivera, Haley  	10011	1	5	Production Technician I	Spanish	WEOG	01/12/1973	F	Married	11/28/2011		Active	Production       	Webster Butler		Exceeds	5	00/01/1900	02/11/2019	0	16
+Petrowsky, Thelma	10016	1	3	Data Analyst	Kenyan	African Group	09/16/84	F	Married	11/10/2014		Active	IT/IS	Simon Roup	4	Exceeds	5	07/01/1900	01/04/2019	0	16
+Beak, Kimberly  	10023	2	5	Production Technician II	Zimbabwean	African Group	04/17/66	F	Married	7/21/2016		Active	Production       	Kelley Spirea	18	Exceeds	3	0	1/14/2019	0	16
+Squatrito, Kristen	10030	5	5	Production Technician I	Bhutanese	Asia Pacific Group	03/26/73	F	Divorced	5/13/2013	6/29/2015	Voluntarily Terminated	Production       	David Stanley	14	Exceeds	4	00/01/1900	03/02/2015	0	16
+Mancuso, Karen	10073	5	5	Production Technician II	Peruvian	GRULAC	12/10/1986	F	Married	07/05/2011	8/19/2012	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	4	00/01/1900	07/02/2012	0	16
+Carthy, B'rigit	10076	1	5	Production Technician II	Greek	WEOG	05/21/87	F	Single	3/30/2015		Active	Production       	Ketsia Liebig	19	Fully Meets	5	00/01/1900	02/07/2019	0	16
+Leruth, Giovanni	10103	1	6	Area Sales Manager	New Zealander	WEOG	12/27/88	M 	Separated	4/30/2012		Active	Sales	John Smith	17	Fully Meets	3	0	1/29/2019	0	16
+Dolan, Linda	10133	1	3	IT Support	Botswana	African Group	07/18/88	F	Married	01/05/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	4	6	2/25/2019	0	16
+Smith, Sade	10157	1	5	Production Technician I	Mexican	GRULAC	02/02/1965	F	Single	11/11/2013		Active	Production       	Ketsia Liebig	19	Fully Meets	3	0	1/24/2019	0	16
+Kinsella, Kathleen  	10166	5	5	Production Technician I	Greek	WEOG	12/08/1973	F	Married	9/26/2011	06/04/2015	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	5	00/01/1900	03/01/2015	0	16
+Simard, Kramer	10178	1	3	Data Analyst	Spanish	WEOG	02/08/1970	M 	Married	01/05/2015		Active	IT/IS	Simon Roup	4	Fully Meets	3	7	1/14/2019	0	16
+Linares, Marilyn 	10186	5	5	Production Technician I	Kenyan	African Group	03/26/81	F	Married	07/05/2011	9/26/2018	Voluntarily Terminated	Production       	Michael Albert	22	Fully Meets	4	00/01/1900	03/02/2018	0	16
+Ferguson, Susan	10189	5	5	Production Technician I	Kenyan	African Group	04/14/55	F	Married	11/07/2011	5/17/2016	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	3	00/01/1900	02/04/2016	0	16
+Homberger, Adrienne  J	10195	5	5	Production Technician II	Eritrean	African Group	02/16/84	F	Married	8/15/2011	04/07/2012	Voluntarily Terminated	Production       	Michael Albert	30	Fully Meets	5	00/01/1900	03/05/2012	0	16
+Valentin,Jackie	10205	1	6	Area Sales Manager	Spanish	WEOG	05/23/91	F	Married	07/05/2011		Active	Sales	John Smith	17	Fully Meets	3	0	1/17/2019	0	16
+Bacong, Alejandro 	10250	1	3	IT Support	Haitian	GRULAC	01/07/1988	M 	Divorced	01/05/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	5	6	2/18/2019	0	16
+Purinton, Janine	10262	5	5	Production Technician I	Swedish	WEOG	09/22/70	F	Divorced	9/24/2012	6/18/2013	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	5	00/01/1900	04/02/2013	0	16
+Williams, Jacquelyn  	10264	5	5	Production Technician I	South African	African Group	10/02/1969	F	Single	01/09/2012	6/27/2015	Voluntarily Terminated	Production       	Ketsia Liebig	19	Fully Meets	4	00/01/1900	06/02/2014	0	16
+Estremera, Miguel	10280	4	5	Production Technician I	Canadian	WEOG	09/02/1983	M 	Single	04/02/2012	9/27/2018	Terminated for Cause	Production       	Michael Albert	22	Needs Improvement	4	00/01/1900	04/12/2018	5	16
+Robinson, Cherly	10285	4	5	Production Technician I	French	WEOG	01/07/1985	F	Married	01/10/2011	5/17/2016	Terminated for Cause	Production       	Ketsia Liebig	19	Needs Improvement	3	00/01/1900	04/05/2016	4	16
+Smith, John	10291	1	6	Sales Manager	Jordanian	Asia Pacific Group	08/16/84	M 	Divorced	5/18/2014		Active	Sales	Debra Houlihan	15	Needs Improvement	4	0	1/16/2019	2	16
+Cole, Spencer	10292	4	5	Production Technician I	Kenyan	African Group	08/12/1979	M 	Single	07/11/2011	9/23/2016	Terminated for Cause	Production       	Kissy Sullivan	20	Needs Improvement	3	00/01/1900	05/01/2016	5	16
+Lynch, Lindsay	10004	5	5	Production Technician I	Canadian	WEOG	02/14/73	F	Single	11/07/2011	11/14/2015	Voluntarily Terminated	Production       	Webster Butler	39	Exceeds	4	00/01/1900	02/02/2015	0	17
+Gross, Paula	10059	5	5	Production Technician I	Kenyan	African Group	05/21/83	F	Divorced	2/21/2011	01/11/2014	Voluntarily Terminated	Production       	Kelley Spirea	18	Fully Meets	5	00/01/1900	06/03/2013	0	17
+Oliver, Brooke 	10078	5	5	Production Technician II	Beninese	African Group	02/11/1952	F	Married	5/14/2012	8/19/2013	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	3	00/01/1900	07/02/2013	0	17
+Navathe, Kurt	10079	1	3	Senior BI Developer	Colombian	GRULAC	04/25/70	M 	Single	02/10/2017		Active	IT/IS	Brian Champaigne	13	Fully Meets	3	6	2/25/2019	0	17
+Ait Sidi, Karthikeyan   	10084	5	3	Sr. DBA	Mexican	GRULAC	05/05/1975	M 	Married	3/30/2015	6/16/2016	Voluntarily Terminated	IT/IS	Simon Roup	4	Fully Meets	3	6	2/24/2016	0	17
+Roper, Katie	10086	1	3	Data Architect	Kenyan	African Group	11/21/72	F	Single	01/07/2017		Active	IT/IS	Brian Champaigne	13	Fully Meets	3	05/01/1900	02/06/2019	0	17
+Leach, Dallas	10087	5	5	Production Technician I	of the USA	WEOG	01/17/79	F	Single	9/26/2011	8/19/2018	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	3	00/01/1900	07/02/2017	0	17
+Meads, Elizabeth	10128	5	5	Production Technician I	Kenyan	African Group	05/30/68	F	Single	04/02/2012	11/11/2016	Voluntarily Terminated	Production       	Kelley Spirea	18	Fully Meets	4	00/01/1900	02/05/2016	0	17
+Smith, Leigh Ann	10153	5	1	Administrative Assistant	Kenyan	African Group	06/14/87	F	Married	9/26/2011	9/25/2013	Voluntarily Terminated	Admin Offices	Brandon R. LeBlanc	1	Fully Meets	4	4	8/15/2013	0	17
+Wang, Charlie	10172	1	3	Senior BI Developer	Canadian	WEOG	07/08/1981	M 	Single	2/15/2017		Active	IT/IS	Brian Champaigne	13	Fully Meets	4	07/01/1900	01/04/2019	0	17
+Kretschmer, John	10176	1	5	Production Technician I	Canadian	WEOG	02/02/1980	M 	Married	01/10/2011		Active	Production       	Brannon Miller	12	Fully Meets	3	0	1/21/2019	0	17
+Chigurh, Anton	10200	1	6	Area Sales Manager	Swiss	WEOG	06/11/1970	M 	Single	5/14/2012		Active	Sales	Lynn Daneault	21	Fully Meets	5	0	1/19/2019	0	17
+Bugali, Josephine 	10203	3	5	Production Technician I	Honduran	GRULAC	10/30/69	F	Separated	11/11/2013		Active	Production       	Kissy Sullivan	20	Fully Meets	5	0	1/21/2019	0	17
+Faller, Megan 	10263	1	5	Production Technician II	Indian	Asia Pacific Group	09/22/78	F	Married	07/07/2014		Active	Production       	Elijiah Gray	16	Fully Meets	5	0	2/22/2019	0	17
+Dietrich, Jenna  	10304	1	6	Area Sales Manager	South African	African Group	05/14/87	F	Single	2/20/2012		Active	Sales	John Smith	17	PIP	1	0	1/29/2019	2	17
+Volk, Colleen	10022	4	5	Production Technician I	Colombian	GRULAC	06/03/1986	F	Married	9/26/2011	02/08/2016	Terminated for Cause	Production       	Kelley Spirea	18	Exceeds	5	00/01/1900	02/01/2015	0	18
+Ozark, Travis	10041	1	6	Area Sales Manager	Spanish	WEOG	05/19/82	M 	Single	01/05/2015		Active	Sales	John Smith	17	Fully Meets	5	0	1/14/2019	0	18
+Huynh, Ming	10160	5	5	Production Technician II	Egyptian	African Group	09/22/76	F	Divorced	2/21/2011	04/01/2013	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	3	00/01/1900	02/01/2013	0	18
+Terry, Sharlene 	10161	1	6	Area Sales Manager	British	WEOG	05/07/1965	F	Single	9/29/2014		Active	Sales	Lynn Daneault	21	Fully Meets	3	0	1/28/2019	0	18
+MacLennan, Samuel	10191	5	5	Production Technician I	Tanzanian	African Group	11/09/1972	M 	Widowed	9/24/2012	9/26/2017	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	4	00/01/1900	04/01/2017	0	18
+Strong, Caitrin	10241	1	6	Area Sales Manager	French	WEOG	05/12/1989	F	Married	9/27/2010		Active	Sales	John Smith	17	Fully Meets	4	0	1/31/2019	0	18
+Motlagh,  Dawn	10254	1	5	Production Technician I	French	WEOG	07/07/1984	F	Divorced	04/01/2013		Active	Production       	Elijiah Gray	16	Fully Meets	4	0	1/17/2019	0	18
+Trang, Mei	10287	1	5	Production Technician I	British	WEOG	05/16/83	F	Single	2/17/2014		Active	Production       	David Stanley	14	Needs Improvement	5	00/01/1900	02/11/2019	4	18
+Billis, Helen	10003	1	5	Production Technician I	Costa Rican	GRULAC	09/01/1989	F	Married	07/07/2014		Active	Production       	Brannon Miller	12	Exceeds	3	0	2/27/2019	0	19
+Lunquist, Lisa	10035	1	5	Production Technician II	Thai	Asia Pacific Group	03/28/82	F	Single	8/19/2013		Active	Production       	Elijiah Gray	16	Exceeds	4	00/01/1900	02/12/2019	0	19
+Fidelia,  Libby	10049	1	5	Production Technician I	South African	African Group	03/16/81	F	Married	01/09/2012		Active	Production       	Brannon Miller	12	Fully Meets	5	0	1/29/2019	0	19
+Athwal, Sam	10062	1	5	Production Technician I	Peruvian	GRULAC	02/18/83	M 	Widowed	9/30/2013		Active	Production       	Ketsia Liebig	19	Fully Meets	4	0	2/25/2019	0	19
+Soto, Julia 	10119	1	3	IT Support	South African	African Group	03/12/1973	F	Married	06/10/2011		Active	IT/IS	Eric Dougall	6	Fully Meets	3	05/01/1900	02/08/2019	0	19
+Vega, Vincent	10144	1	5	Production Manager	Spanish	WEOG	10/10/1968	M 	Divorced	08/01/2011		Active	Production       	Janet King	2	Fully Meets	3	0	2/27/2019	0	19
+Rarrick, Quinn	10152	5	5	Production Technician I	Argentinian	GRULAC	12/31/84	M 	Divorced	9/26/2011	04/07/2018	Voluntarily Terminated	Production       	Michael Albert	22	Fully Meets	5	00/01/1900	02/04/2018	0	19
+Gentry, Mildred	10159	1	5	Production Technician I	of the USA	WEOG	10/01/1990	F	Married	3/30/2015		Active	Production       	Michael Albert	22	Fully Meets	3	0	1/16/2019	0	19
+Bunbury, Jessica	10188	5	6	Area Sales Manager	German	WEOG	06/01/1964	F	Married	8/15/2011	08/02/2014	Voluntarily Terminated	Sales	John Smith	17	Fully Meets	5	00/01/1900	02/10/2013	1	19
+Andreola, Colby	10194	1	4	Software Engineer	Zimbabwean	African Group	05/24/79	F	Single	11/10/2014		Active	Software Engineering	Alex Sweetwater	10	Fully Meets	3	04/01/1900	01/02/2019	0	19
+Daniele, Ann  	10212	3	3	Sr. Network Engineer	Kenyan	African Group	01/18/52	F	Married	11/10/2014		Active	IT/IS	Peter Monroe	7	Fully Meets	5	08/01/1900	02/12/2019	0	19
+Ndzi, Colombui	10215	5	5	Production Technician I	Malawian	African Group	05/02/1989	M 	Single	9/26/2011	04/04/2014	Voluntarily Terminated	Production       	Webster Butler	39	Fully Meets	3	00/01/1900	03/02/2013	0	19
+Pearson, Randall	10259	5	3	Data Analyst	Kenyan	African Group	09/05/1984	M 	Married	12/01/2014	05/01/2016	Voluntarily Terminated	IT/IS	Simon Roup	4	Fully Meets	4	5	1/16/2016	0	19
+Houlihan, Debra	10272	1	6	Director of Sales	Moldovan	Eastern European Group	03/17/66	F	Married	05/05/2014		Active	Sales	Janet King	2	Fully Meets	4	0	1/21/2019	0	19
+Exantus, Susan	10290	4	4	Software Engineer	Colombian	GRULAC	05/15/87	F	Married	05/02/2011	06/05/2013	Terminated for Cause	Software Engineering	Alex Sweetwater	10	Needs Improvement	5	04/01/1900	08/10/2012	4	19
+Evensen, April	10296	4	5	Production Technician I	Mauritian	African Group	05/06/1989	F	Single	2/17/2014	2/25/2018	Terminated for Cause	Production       	Elijiah Gray	16	Needs Improvement	3	0	1/15/2017	5	19
+Bates, Norman	10061	4	5	Production Technician I	Jamaican	GRULAC	10/18/81	M 	Single	2/21/2011	08/04/2017	Terminated for Cause	Production       	Kelley Spirea	18	Fully Meets	4	00/01/1900	04/05/2017	0	20
+Hankard, Earnest	10074	1	5	Production Technician II	South African	African Group	08/10/1988	M 	Single	11/11/2013		Active	Production       	Kelley Spirea	18	Fully Meets	3	00/01/1900	01/08/2019	0	20
+Fitzpatrick, Michael  J	10093	5	5	Production Technician II	Kenyan	African Group	10/01/1981	M 	Single	5/16/2011	6/24/2013	Voluntarily Terminated	Production       	Amy Dunn	11	Fully Meets	5	00/01/1900	04/05/2013	0	20
+Sloan, Constance	10095	5	5	Production Technician II	Syrian	Asia Pacific Group	11/25/87	F	Single	10/26/2009	04/08/2015	Voluntarily Terminated	Production       	Michael Albert	22	Fully Meets	4	00/01/1900	04/02/2015	0	20
+Langford, Lindsey	10106	5	5	Production Technician II	Austrian	WEOG	07/25/79	F	Divorced	01/07/2013	3/31/2014	Voluntarily Terminated	Production       	David Stanley	14	Fully Meets	3	0	2/20/2014	0	20
+Guilianno, Mike	10109	5	6	Area Sales Manager	Kenyan	African Group	02/09/1969	M 	Single	03/07/2012	10/31/2014	Voluntarily Terminated	Sales	John Smith	17	Fully Meets	5	00/01/1900	02/01/2013	0	20
+LeBlanc, Brandon  R	10134	1	1	Shared Services Manager	of the Niger	African Group	06/10/1984	M 	Married	01/05/2016		Active	Admin Offices	Janet King	2	Fully Meets	4	0	1/28/2019	0	20
+Mckenna, Sandy	10145	1	5	Production Technician I	Jamaican	GRULAC	01/07/1987	F	Married	01/07/2013		Active	Production       	Kissy Sullivan	20	Fully Meets	3	0	1/30/2019	0	20
+Kreuger, Freddy	10165	1	6	Area Sales Manager	Nigerian	African Group	02/24/69	M 	Single	03/07/2011		Active	Sales	John Smith	17	Fully Meets	5	0	1/17/2019	0	20
+Goeth, Amon	10228	1	3	IT Support	Kenyan	African Group	11/24/89	M 	Married	3/30/2015		Active	IT/IS	Peter Monroe	7	Fully Meets	5	07/01/1900	01/10/2019	0	20
+Good, Susan	10237	3	5	Production Technician II	Chinese	Asia Pacific Group	05/25/86	F	Married	05/12/2014		Active	Production       	David Stanley	14	Fully Meets	3	00/01/1900	02/07/2019	0	20
+Latif, Mohammed	10249	5	5	Production Technician II	South African	African Group	05/09/1984	M 	Married	04/02/2012	4/15/2013	Voluntarily Terminated	Production       	Kissy Sullivan	20	Fully Meets	3	0	2/20/2013	0	20
+Givens, Myriam	10255	1	6	Area Sales Manager	Liberian	African Group	09/22/89	F	Single	2/16/2015		Active	Sales	Lynn Daneault	21	Fully Meets	5	0	1/25/2019	0	20
+Sparks, Taylor  	10302	1	5	Production Technician I	Spanish	WEOG	07/20/68	F	Married	2/20/2012		Active	Production       	Brannon Miller	12	PIP	2	1	2/25/2019	6	20
